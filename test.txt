@@ -1,2 +1,3 @@
 testing the git hub in master brnach
 changing for merge the git local and reomte for master local
+changing again : for pull command to test on both romte & local changes 
